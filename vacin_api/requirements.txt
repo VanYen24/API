@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+sqlalchemy
+passlib
+bcrypt
+python-jose
+python-multipart
+twilio
+pydantic
+fastapi-mail
+python-dotenv
+pandas
+numpy==1.21.2
+openpyxl
